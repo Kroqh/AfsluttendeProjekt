@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "X1/nT7brDZgsOha8m91Tpu3ZgXNKhdWG3/w704B5phg5q55LfhyzZL0aXYXE6vVGNYlFV9NXbFE4X0pVHDnIKA==",
+  "success": true,
+  "projectFilePath": "C:\\finalproj\\client\\PM-GUI-Client\\PM-GUI-Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krogh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Krogh\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Krogh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Krogh\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Krogh\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
